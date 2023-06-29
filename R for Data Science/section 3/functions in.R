@@ -2,7 +2,7 @@
 
 ?rnorm(7)
 
-x <- c("succ", "my", "dicc")
+x <- c("suc", "m", "d")
 
 
 ?c()
