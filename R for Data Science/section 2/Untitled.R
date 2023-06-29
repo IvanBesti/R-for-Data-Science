@@ -5,7 +5,7 @@ library(LDAvis)
 library(RColorBrewer)
 
 # Read in the CSV file
-data <- read.csv("/Users/ivanbesti/Documents/S1/SEMESTER 1/ML & DL/scrapping_sampe_tipes/CNN/COVID-19_CNN.csv", stringsAsFactors = FALSE)
+data <- read.csv("COVID-19_CNN.csv", stringsAsFactors = FALSE)
 
 # Perform text preprocessing on the "content" column
 data_clean <- data %>%
