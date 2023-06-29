@@ -1,6 +1,6 @@
 
 
-mydata <- read.csv("/Users/ivanbesti/Documents/S1/SEMESTER 2/UDEMY/R for Data Science/Section 1/P2-Mispriced-Diamonds.csv")
+mydata <- read.csv("P2-Mispriced-Diamonds.csv")
 
 install.packages("ggplot2")
 
